@@ -68,7 +68,6 @@ During the lab, the following questions were answered using SPL:
 - Which user is linked to a specific source IP address?
 - How many VPN connections originated from all countries except a trusted
   one?
-- How many VPN events are tied to a specific IP address?
 
 These questions are representative of common SOC tasks such as basic
 triage, anomaly identification, and contextual investigation.
