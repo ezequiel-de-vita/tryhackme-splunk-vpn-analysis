@@ -73,21 +73,6 @@ During the lab, the following questions were answered using SPL:
 These questions are representative of common SOC tasks such as basic
 triage, anomaly identification, and contextual investigation.
 
----
-
-### Why this matters from a SOC perspective
-
-This lab focuses on fundamental SIEM skills expected from junior and
-entry-level SOC analysts:
-
-- Verifying that logs are correctly ingested and searchable
-- Writing clear and efficient SPL queries
-- Correlating users, IPs, and geographic data
-- Thinking in terms of investigation questions rather than raw log
-  volume
-
-Being able to move from raw logs to meaningful conclusions is a core part
-of security operations work.
 
 ---
 
@@ -97,11 +82,4 @@ All logs and screenshots come from a simulated TryHackMe lab
 environment. No real users, infrastructure, or production data are
 included.
 
----
 
-### Possible next steps
-
-If expanded further, this lab could include:
-- Alert creation for suspicious VPN behavior
-- Simple dashboards to visualize VPN usage patterns
-- Time-based analysis to detect unusual access behavior
